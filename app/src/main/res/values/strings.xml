@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PembekalanH1</string>
+    <string name="profile_title">Profile</string>
+    <string name="name">Roger AS</string>
+    <string name="explain_name">This is not your username or pin. This name will be visible to your Whatsapp contacts.</string>
+    <string name="about">About and phone number</string>
+    <string name="status">Sibuk</string>
+    <string name="number">+62 823-6324-2545</string>
+</resources>
